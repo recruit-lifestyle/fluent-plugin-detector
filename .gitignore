@@ -1,0 +1,21 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+*.gem
+.bundle
+pkg/*
+# For TextMate, emacs, vim
+*.tmproj
+tmtags
+*~
+\#*
+.\#*
+*.swp
+
